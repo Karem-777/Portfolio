@@ -1,2 +1,4 @@
 # Portfolio
 Portfolio
+
+## project notes
